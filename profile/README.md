@@ -2,6 +2,13 @@
 
 Welcome to the Grading Accuracy Study, a research initiative coordinated through the IRB at UC Berkeley. This organization is dedicated to studying and improving the accuracy of grading systems across educational settings.
 
+## Affiliated Researchers
+
+**Andrew Bray**, Statistics, UC Berkeley
+**Joshua Grossman**, Statistics, UC Berkeley
+**Nikita Jayaprakash**, Demography, UC Berkeley
+**Mine Çetinkaya-Rundel**, Statistics, Duke University
+
 ## About Our Research
 
 Our study examines how different grading methodologies and practices impact the accuracy and fairness of student assessment. We investigate:
@@ -13,26 +20,9 @@ Our study examines how different grading methodologies and practices impact the 
 
 ## Our Repositories
 
-This organization contains repositories supporting our research, including data analysis tools, study materials, and documentation of our findings.
-
-## Getting Started
-
-### For Researchers
-- Review our research papers and methodology in the main repositories
-- Check documentation for data access and analysis procedures
-- See individual repository READMEs for specific contribution guidelines
-
-### For Contributors
-- We welcome contributions from educators, researchers, and developers
-- Please start by reviewing the CONTRIBUTING.md file in relevant repositories
-- Open issues or discussions for questions about the research
+This organization contains repositories supporting our research, including data analysis tools, study materials, and documentation of our findings. The data, analysis, and manuscript corresponding to the primary publication is held in a public repository that will be made public after the blinded version has made it's way through scientific review.
 
 ## Resources
-
-**Study Documentation:**
-- Research materials and IRB approval documentation
-- Study protocols and ethical guidelines
-- Data management and privacy information
 
 **Collaborative Tools:**
 - Password-protected Google Drive: [Access Research Materials](https://drive.google.com/drive/folders/1z6eIQrNYc92RI49FyAcLD2D_9qgfUw-I)
