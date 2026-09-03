@@ -4,10 +4,10 @@ Welcome to the Grading Accuracy Study, a research initiative coordinated through
 
 ## Affiliated Researchers
 
-**Andrew Bray**, Statistics, UC Berkeley
-**Joshua Grossman**, Statistics, UC Berkeley
-**Nikita Jayaprakash**, Demography, UC Berkeley
-**Mine Çetinkaya-Rundel**, Statistics, Duke University
+- **Andrew Bray**, Statistics, UC Berkeley
+- **Joshua Grossman**, Statistics, UC Berkeley
+- **Nikita Jayaprakash**, Demography, UC Berkeley
+- **Mine Çetinkaya-Rundel**, Statistics, Duke University
 
 ## About Our Research
 
