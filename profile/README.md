@@ -20,7 +20,7 @@ Our study examines how different grading methodologies and practices impact the 
 
 ## Our Repositories
 
-This organization contains repositories supporting our research, including data analysis tools, study materials, and documentation of our findings. The data, analysis, and manuscript corresponding to the primary publication is held in a public repository that will be made public after the blinded version has made it's way through scientific review.
+This organization contains repositories supporting our research, including data analysis tools, study materials, and documentation of our findings. The data, analysis, and manuscript corresponding to the primary publication is held in a private repository that will be made public after the blinded version has made it's way through scientific review.
 
 ## Resources
 
